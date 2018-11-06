@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id" : 1,
+      "name" : "John Doe",
+      "age" : 22,
+      "city": "London"
+    },
+    {
+      "id": 2,
+      "name": "Coco lasticot",
+      "age": 53,
+      "city": "Kamelot"
+    },
+    {
+      "id": 3,
+      "name": "Toto tati",
+      "age" : 2,
+      "city": "France"
+    }
+  ]
+}

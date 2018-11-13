@@ -1,9 +1,8 @@
 {
-  "users": [
-    {
-      "id" : 1,
-      "name" : "John Doe",
-      "age" : 22,
+  "users": [{
+      "id": 1,
+      "name": "John Doe",
+      "age": 22,
       "city": "London"
     },
     {
@@ -15,7 +14,7 @@
     {
       "id": 3,
       "name": "Toto tati",
-      "age" : 2,
+      "age": 2,
       "city": "France"
     }
   ]
